@@ -1,1 +1,1 @@
-# Quali90-course-python-oop
+# course-python-oop
